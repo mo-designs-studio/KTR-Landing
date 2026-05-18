@@ -1,0 +1,7 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Levo lift mark</title>
+  <desc id="desc">A rounded teal icon with an L shaped step and a small citrus lift accent.</desc>
+  <rect width="512" height="512" rx="148" fill="#0A5F58"/>
+  <path d="M154 360V140h95v134h113v86H154Z" fill="#FFFEFA"/>
+  <path d="M293 228h93v-88h-54v36h-39v52Z" fill="#F97316"/>
+</svg>
