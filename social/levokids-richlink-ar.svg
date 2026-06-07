@@ -1,0 +1,79 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">معاينة رابط ليڤو</title>
+  <desc id="desc">معاينة لعلامة ليڤو تعرض رسالة خطوات صغيرة ونمو ثابت بجانب شاشات تقدم المنتج.</desc>
+  <defs>
+    <linearGradient id="bg" x1="1200" y1="0" x2="0" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFEFA"/>
+      <stop offset="0.53" stop-color="#F7FAF8"/>
+      <stop offset="1" stop-color="#E7F5EF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="550" y1="96" x2="170" y2="530" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A5F58"/>
+      <stop offset="1" stop-color="#11272F"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="26" flood-color="#11272F" flood-opacity="0.16"/>
+    </filter>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#11272F" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M1200 478C1054 425 968 458 839 393C696 320 651 221 479 191C299 159 189 214 0 125V630H1200V478Z" fill="#DFF3EC"/>
+  <path d="M1200 568C1034 520 913 552 774 497C618 435 513 354 342 368C202 379 124 432 0 398V630H1200V568Z" fill="#FFF4E8"/>
+  <path d="M1140 118H650" stroke="#C9E4DC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1140 512H712" stroke="#C9E4DC" stroke-width="2" stroke-linecap="round"/>
+
+  <g transform="translate(1026 70)">
+    <rect width="76" height="76" rx="22" fill="#0A5F58"/>
+    <path d="M23 53V21h14v20h17v12H23Z" fill="#FFFEFA"/>
+    <path d="M44 34h14V21h-8v5h-6v8Z" fill="#F97316"/>
+  </g>
+  <foreignObject x="830" y="76" width="172" height="64">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="width:172px;height:64px;display:flex;align-items:center;justify-content:flex-end;color:#11272F;font:700 42px/1.1 Tajawal, 'Avenir Next', 'Segoe UI', sans-serif;">
+      ليڤو
+    </div>
+  </foreignObject>
+
+  <foreignObject x="650" y="176" width="480" height="204">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="width:480px;height:204px;text-align:right;color:#11272F;font-family:Tajawal, 'Avenir Next', 'Segoe UI', sans-serif;">
+      <div style="font-size:64px;line-height:1.17;font-weight:800;letter-spacing:0;">خطوات صغيرة.<br/>نمو ثابت.</div>
+      <div style="margin-top:22px;color:#37525A;font-size:30px;line-height:1.42;font-weight:500;letter-spacing:0;">تقدم واضح ومكافآت مستحقة.</div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="664" y="472" width="466" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="width:466px;height:50px;display:flex;gap:20px;justify-content:flex-start;align-items:center;font:700 23px/1 Tajawal, 'Avenir Next', 'Segoe UI', sans-serif;">
+      <span style="display:flex;align-items:center;justify-content:center;width:128px;height:50px;border-radius:25px;background:#E5F3F0;color:#0A5F58;">روتين</span>
+      <span style="display:flex;align-items:center;justify-content:center;width:124px;height:50px;border-radius:25px;background:#EAF0FF;color:#2563EB;">تقدم</span>
+      <span style="display:flex;align-items:center;justify-content:center;width:174px;height:50px;border-radius:25px;background:#FFF0DF;color:#B55712;">مكافآت مستحقة</span>
+    </div>
+  </foreignObject>
+
+  <g filter="url(#shadow)">
+    <rect x="104" y="90" width="470" height="374" rx="42" fill="url(#panel)"/>
+    <rect x="134" y="124" width="410" height="306" rx="30" fill="#FFFEFA"/>
+    <circle cx="514" cy="154" r="7" fill="#F97316"/>
+    <circle cx="489" cy="154" r="7" fill="#22C55E"/>
+    <circle cx="464" cy="154" r="7" fill="#2563EB"/>
+    <rect x="348" y="194" width="166" height="18" rx="9" fill="#153B42"/>
+    <rect x="214" y="228" width="300" height="14" rx="7" fill="#CFE4DE"/>
+    <rect x="346" y="272" width="168" height="96" rx="22" fill="#E8F4F1"/>
+    <rect x="164" y="272" width="156" height="96" rx="22" fill="#FFF0DF"/>
+    <rect x="375" y="301" width="114" height="12" rx="6" fill="#0A5F58"/>
+    <rect x="401" y="330" width="88" height="12" rx="6" fill="#F97316"/>
+    <path d="M200 332L233 299L266 332" stroke="#F97316" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="164" y="390" width="350" height="16" rx="8" fill="#D7E9E3"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="99" y="236" width="214" height="326" rx="42" fill="#11272F"/>
+    <rect x="117" y="258" width="178" height="282" rx="29" fill="#FFFEFA"/>
+    <rect x="148" y="288" width="116" height="14" rx="7" fill="#153B42"/>
+    <path d="M151 358C172 333 201 323 231 338C258 352 270 379 259 405C247 435 213 446 182 433C150 419 133 386 151 358Z" fill="#E5F3F0"/>
+    <path d="M171 392L199 365L227 392" stroke="#22C55E" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="148" y="461" width="116" height="14" rx="7" fill="#0A5F58"/>
+    <rect x="180" y="490" width="84" height="12" rx="6" fill="#F97316"/>
+  </g>
+</svg>

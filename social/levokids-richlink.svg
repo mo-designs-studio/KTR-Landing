@@ -1,0 +1,80 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Levo link preview</title>
+  <desc id="desc">A Levo brand preview showing the Small wins. Steady growth. message beside product progress screens.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFEFA"/>
+      <stop offset="0.53" stop-color="#F7FAF8"/>
+      <stop offset="1" stop-color="#E7F5EF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="650" y1="96" x2="1030" y2="530" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A5F58"/>
+      <stop offset="1" stop-color="#11272F"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="26" flood-color="#11272F" flood-opacity="0.16"/>
+    </filter>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#11272F" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M0 478C146 425 232 458 361 393C504 320 549 221 721 191C901 159 1011 214 1200 125V630H0V478Z" fill="#DFF3EC"/>
+  <path d="M0 568C166 520 287 552 426 497C582 435 687 354 858 368C998 379 1076 432 1200 398V630H0V568Z" fill="#FFF4E8"/>
+  <path d="M70 118H560" stroke="#C9E4DC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M70 512H498" stroke="#C9E4DC" stroke-width="2" stroke-linecap="round"/>
+
+  <g transform="translate(70 70)">
+    <rect width="76" height="76" rx="22" fill="#0A5F58"/>
+    <path d="M23 53V21h14v20h17v12H23Z" fill="#FFFEFA"/>
+    <path d="M44 34h14V21h-8v5h-6v8Z" fill="#F97316"/>
+    <text x="98" y="51" fill="#11272F" font-family="Avenir Next, Nunito Sans, Segoe UI, sans-serif" font-size="42" font-weight="700">Levo</text>
+  </g>
+
+  <g transform="translate(70 185)">
+    <text fill="#11272F" font-family="Avenir Next, Nunito Sans, Segoe UI, sans-serif" font-size="66" font-weight="800" letter-spacing="0">
+      <tspan x="0" y="0">Small wins.</tspan>
+      <tspan x="0" y="78">Steady growth.</tspan>
+    </text>
+    <text fill="#37525A" font-family="Avenir Next, Nunito Sans, Segoe UI, sans-serif" font-size="30" font-weight="500" letter-spacing="0">
+      <tspan x="0" y="136">Visible progress, fair feedback, and</tspan>
+      <tspan x="0" y="176">motivating rewards for family routines.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(70 472)" font-family="Avenir Next, Nunito Sans, Segoe UI, sans-serif" font-size="22" font-weight="700">
+    <rect x="0" y="0" width="128" height="50" rx="25" fill="#E5F3F0"/>
+    <text x="28" y="32" fill="#0A5F58">Routines</text>
+    <rect x="148" y="0" width="124" height="50" rx="25" fill="#EAF0FF"/>
+    <text x="176" y="32" fill="#2563EB">Progress</text>
+    <rect x="292" y="0" width="174" height="50" rx="25" fill="#FFF0DF"/>
+    <text x="320" y="32" fill="#B55712">Earned rewards</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="626" y="90" width="470" height="374" rx="42" fill="url(#panel)"/>
+    <rect x="656" y="124" width="410" height="306" rx="30" fill="#FFFEFA"/>
+    <circle cx="686" cy="154" r="7" fill="#F97316"/>
+    <circle cx="711" cy="154" r="7" fill="#22C55E"/>
+    <circle cx="736" cy="154" r="7" fill="#2563EB"/>
+    <rect x="686" y="194" width="166" height="18" rx="9" fill="#153B42"/>
+    <rect x="686" y="228" width="300" height="14" rx="7" fill="#CFE4DE"/>
+    <rect x="686" y="272" width="168" height="96" rx="22" fill="#E8F4F1"/>
+    <rect x="880" y="272" width="156" height="96" rx="22" fill="#FFF0DF"/>
+    <rect x="711" y="301" width="114" height="12" rx="6" fill="#0A5F58"/>
+    <rect x="711" y="330" width="88" height="12" rx="6" fill="#F97316"/>
+    <path d="M916 332L949 299L982 332" stroke="#F97316" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="686" y="390" width="350" height="16" rx="8" fill="#D7E9E3"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="887" y="236" width="214" height="326" rx="42" fill="#11272F"/>
+    <rect x="905" y="258" width="178" height="282" rx="29" fill="#FFFEFA"/>
+    <rect x="936" y="288" width="116" height="14" rx="7" fill="#153B42"/>
+    <path d="M939 358C960 333 989 323 1019 338C1046 352 1058 379 1047 405C1035 435 1001 446 970 433C938 419 921 386 939 358Z" fill="#E5F3F0"/>
+    <path d="M959 392L987 365L1015 392" stroke="#22C55E" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="936" y="461" width="116" height="14" rx="7" fill="#0A5F58"/>
+    <rect x="936" y="490" width="84" height="12" rx="6" fill="#F97316"/>
+  </g>
+</svg>
